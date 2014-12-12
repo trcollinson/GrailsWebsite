@@ -1,0 +1,10 @@
+Testsuite: org.hawkmicrotek.BlogSpec
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.079 sec
+------------- Standard Output ---------------
+--Output from has main blog properties--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from has main blog properties--
+------------- ---------------- ---------------
+
+Testcase: has main blog properties took 0.079 sec

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="131976A" name="website.MyIntegrationTestSpec" tests="1" time="0.093" timestamp="2014-12-12T22:07:27">
+  <properties />
+  <testcase classname="website.MyIntegrationTestSpec" name="testThis" time="0.093" />
+  <system-out><![CDATA[--Output from testThis--
+]]></system-out>
+  <system-err><![CDATA[--Output from testThis--
+]]></system-err>
+</testsuite>

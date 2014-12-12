@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="131976A" id="0" name="MyIntegrationTestSpec" package="website" tests="1" time="0.093" timestamp="2014-12-12T22:07:27">
+      <properties />
+
+      <testcase classname="website.MyIntegrationTestSpec" name="testThis" time="0.093" />
+
+      <system-out><![CDATA[--Output from testThis--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testThis--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="131976A" id="1" name="BlogControllerSpec" package="org.hawkmicrotek" tests="8" time="5.845" timestamp="2014-12-12T22:07:09">
+      <properties />
+
+      <testcase classname="org.hawkmicrotek.BlogControllerSpec" name="Test the index action returns the correct model" time="4.768" />
+
+      <testcase classname="org.hawkmicrotek.BlogControllerSpec" name="Test the create action returns the correct model" time="0.109" />
+
+      <testcase classname="org.hawkmicrotek.BlogControllerSpec" name="Test the save action correctly persists an instance" time="0.516" />
+
+      <testcase classname="org.hawkmicrotek.BlogControllerSpec" name="Test that the show action returns the correct model" time="0.078" />
+
+      <testcase classname="org.hawkmicrotek.BlogControllerSpec" name="Test that the edit action returns the correct model" time="0.015" />
+
+      <testcase classname="org.hawkmicrotek.BlogControllerSpec" name="Test the update action performs an update on a valid domain instance" time="0.11" />
+
+      <testcase classname="org.hawkmicrotek.BlogControllerSpec" name="Test that will bring back a list of blogs based on a parameter" time="0.124" />
+
+      <testcase classname="org.hawkmicrotek.BlogControllerSpec" name="Test that the delete action deletes an instance if it exists" time="0.078" />
+
+      <system-out><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+--Output from Test the update action performs an update on a valid domain instance--
+--Output from Test that will bring back a list of blogs based on a parameter--
+--Output from Test that the delete action deletes an instance if it exists--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+--Output from Test the update action performs an update on a valid domain instance--
+--Output from Test that will bring back a list of blogs based on a parameter--
+--Output from Test that the delete action deletes an instance if it exists--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="131976A" id="2" name="BlogSpec" package="org.hawkmicrotek" tests="1" time="0.079" timestamp="2014-12-12T22:07:15">
+      <properties />
+
+      <testcase classname="org.hawkmicrotek.BlogSpec" name="has main blog properties" time="0.079" />
+
+      <system-out><![CDATA[--Output from has main blog properties--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from has main blog properties--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
